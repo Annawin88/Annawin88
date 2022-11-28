@@ -1,6 +1,6 @@
 💛 Hey, nice to see you
 -
-   I’m Anna - student of DS at Yandex Practicum, currently learning DS, Python, SQL. 
+   I’m Anna - Yandex.Practicum student, currently learning Data Science, Python, SQL. 
 
    I’m interested in discovering things around and finding answers.
 
